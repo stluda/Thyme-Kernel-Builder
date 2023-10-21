@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Thyme-KernelSU-Proton",
+      "name": "Thyme-KernelSU-Proton2",
       "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
-      "branch": "android13-stable",
+      "branch": "android11-stable",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
